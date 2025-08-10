@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ErickToque
 - 👀 I’m interested in data science and data analytics
 - 🌱 I’m currently learning machine learning and deep learning
-- 💞️ I’m looking to collaborate on innovation projects with machine learning
+- 💞️ I’m looking to collaborate on innovation projects with machine learning and deep learning
 - 📫 How to reach me: erick.saul.toque@gmail.com
 
 <!---
